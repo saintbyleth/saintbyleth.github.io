@@ -21,7 +21,7 @@ plugins:
   - jekyll-paginate
 
 sidebar_home_link:  true
-disqus.shortname: saintbyleth
+disqus.shortname: saintbyleth.disqus.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
